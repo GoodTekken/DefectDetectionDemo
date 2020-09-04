@@ -16,7 +16,7 @@ namespace OpenCvDemo
                 new Demo {File = "../../../Image/Github.jpg", Blur = 11, ThresholdLow = 9, ThresholdHigh = 26, Filter = true}
             };
 
-            Show(input[3]);
+            Show(input[0]);
         }
 
         public static void Show(Demo demo)
